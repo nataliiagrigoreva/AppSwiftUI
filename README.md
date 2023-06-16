@@ -39,8 +39,9 @@ When you click on the "Exit" button, an alert is displayed:
 
 ## Screenshots
 
-  
-![Simulator Screen Shot - iPhone 11 - 2023-04-30 at 14 10 32](https://user-images.githubusercontent.com/123460015/235444810-6a80228a-cafd-4605-aafc-a5960f24a010.png)
-![Simulator Screen Shot - iPhone 11 - 2023-04-30 at 14 10 25](https://user-images.githubusercontent.com/123460015/235444813-55f2495c-4b9c-4ab7-b27d-4500f61d7653.png)
-![Simulator Screen Shot - iPhone 11 - 2023-04-30 at 14 10 20](https://user-images.githubusercontent.com/123460015/235444819-9bfd9a02-81cf-4329-a75c-f4a64650d50e.png)
+
+<img src="https://user-images.githubusercontent.com/123460015/235444810-6a80228a-cafd-4605-aafc-a5960f24a010.png" width=30% height=30%>
+<img src="https://user-images.githubusercontent.com/123460015/235444813-55f2495c-4b9c-4ab7-b27d-4500f61d7653.png" width=30% height=30%>
+<img src="https://user-images.githubusercontent.com/123460015/235444819-9bfd9a02-81cf-4329-a75c-f4a64650d50e.png" width=30% height=30%>
+
 
